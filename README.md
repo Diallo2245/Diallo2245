@@ -7,7 +7,7 @@
 </p>
 <h2>About Me</h2>
 <p align="left" size="24">
-I am a highly experienced Senior --a voir-- 
+I am a highly experienced Senior --a revoir-- 
 
 🔋 I am a results-oriented professional with a strong technical foundation in technologies like Python, Java, C#,  Network Configuration/Troubleshooting , and IT Tech Support.
 
