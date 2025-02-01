@@ -2,7 +2,7 @@
 <h3 align="center">Sr. IT Support Software, Hardware Specialist | Network Configuration/Troubleshooting | Student in Software Programming (Java, Python, C#, Powershell script)</h3>
 <p align="center">
 
-[![My LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-AlhassanE-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+=)](https://www.linkedin.com/in/alhassanediallo2/)
 
 </p>
 <h2>About Me</h2>
@@ -13,7 +13,7 @@ I am a highly experienced Senior --a voir--
 
 <h3>Contact Me</h3>
 
-✉️ Say hello on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+✉️ Say hello on [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-AlhassanE-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+=)](https://www.linkedin.com/in/alhassanediallo2/)
 
 <h3>Ref</h3>
 
