@@ -8,7 +8,7 @@
 <h2>About Me</h2>
 <p align="left" size="24">
 
-I'm a student in computer systems engineering, programming and I'm passionate about computers. I have knowledge in network (configuration switches, router, DHCP server, NAT, VoiP, ACL, GRE, IPSEC, OSPF, IP STATIC ) especially in programming C++, Python, C#, Active Directory, java, azure Microsoft and also experience in the industry. Experience in customer service and technical support.
+I hold Diploma in computer systems engineering, programming and I'm passionate about computers. I have knowledge in network (configuration switches, router, DHCP server, NAT, VoiP, ACL, GRE, IPSEC, OSPF, IP STATIC ) especially in programming C++, Python, C#, Active Directory, java, azure Microsoft and also experience in the industry. Experience in  Bilingual customer service and technical support.
 
 🔋 I am a results-oriented professional with a strong technical foundation in technologies like Python, Java, C#,  Network Configuration/Troubleshooting , and IT Tech Support.
 
