@@ -60,7 +60,7 @@ I hold Diploma in computer systems engineering, programming and I'm passionate a
 🧭 _under construction_ ⏱️
 
 <!--
-**ajbax/ajbax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
